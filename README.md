@@ -19,7 +19,7 @@
 
 I'm a passionate Data Scientist and Machine Learning Engineer with a focus on **Machine Learning** , **Deep Learning** and **Natural Language Processing (NLP)** and technologies. Currently, I'm exploring cloud services like **AWS** and **Azure** for ML tasks as well as **Gen-AI** capabilities.
 
-- 🔭 I’m currently working on [Dog vs Cat Classification](https://github.com/yourusername/dog-vs-cat-classification)
+- 🔭 I’m currently working on [Dog vs Cat Classification](https://github.com/aditya-lakkad/Image_Classification_CNN)
 - 🌱 I’m currently learning **AWS**, **MLOps** and **GenAI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Data Science, Machine Learning, and NLP**
@@ -44,7 +44,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a focus on **
 
 ### 🚀 Featured Projects
 
-- **[Dog vs Cat Classification](https://github.com/yourusername/dog-vs-cat-classification)**: A comprehensive project showcasing different CNN techniques for image classification.
+- **[Dog vs Cat Classification](https://github.com/aditya-lakkad/Image_Classification_CNN)**: A comprehensive project showcasing different CNN techniques for image classification.
 
 <p align="center">
   <a href="https://github.com/yourusername?tab=repositories">
